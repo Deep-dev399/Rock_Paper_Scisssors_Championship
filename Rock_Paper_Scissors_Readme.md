@@ -28,7 +28,7 @@
 5. **Follow the on-screen prompts to play the game.**
 
 ## **Author**
-- **Developed by [Your Name]**
+- **Developed by Deepesh Narang**
 
 ## **License**
 **This project is for educational and entertainment purposes. Feel free to modify and improve it!**
